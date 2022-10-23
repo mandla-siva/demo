@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConf
 public class TestApplication {
 
 	public static void main(String[] args) {
+		//comment to check first change
 		SpringApplication.run(TestApplication.class, args);
 	}
 
